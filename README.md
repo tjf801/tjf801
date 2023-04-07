@@ -1,6 +1,6 @@
 ### My ✨Github Profile✨
 
-[![My Pronouns](https://img.shields.io/badge/pronouns-he%2Fshe%2Fthey-blueviolet?style=flat)](https://pronoun.is/)
+![My Pronouns](https://img.shields.io/badge/pronouns-he%2Fshe%2Fthey-blueviolet?style=flat)]
 [![My Repos](https://img.shields.io/badge/Github-repos-blue?logo=github&style=flat)](https://github.com/tjf801?tab=repositories)
 [![My Discord](https://img.shields.io/badge/Discord-%40tjf801%233703-brightgreen)](https://discordapp.com/users/590589787430191155)
 [![My Twitch](https://img.shields.io/twitch/status/tjf801)](https://twitch.tv/tjf801)
