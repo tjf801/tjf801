@@ -12,7 +12,7 @@ Current Projects:
 
 Past Projects:
  - [Yik Yak API](https://github.com/tjf801/old-yikyak-api)
- - Physics Simulator (not on github)
+ - Particle Collision Simulator (not on github yet)
  - [Wordle Solver](https://github.com/tjf801/rust-wordle-solver)
  - [Small Minecraft Plugins](https://github.com/tjf801/KeepInventoryPlugin)
  - [C++ style printing in python](https://github.com/tjf801/Better-printing-in-python)
