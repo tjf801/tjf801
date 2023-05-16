@@ -8,12 +8,12 @@
 [![My Twitch](https://img.shields.io/twitch/status/tjf801)](https://twitch.tv/tjf801)
 <!--[![My Reddit](https://img.shields.io/reddit/user-karma/combined/tjf314?color=ff4500&label=Reddit%20u%2Ftjf314&style=flat)](https://reddit.com/u/tjf314/)-->
 
-Current Projects:
+#### Current Projects:
  - [Stockfish, but r/anarchychess](https://github.com/tjf801/AnarchoPleco)
  - A GPU-based simulation of Maxwell's equation using [Geometric Algebra](https://en.wikipedia.org/wiki/Spacetime_algebra#Classical_electromagnetism)
  - Actually making a functional personal website
 
-Past Projects:
+#### Past Projects:
  - [Yik Yak API](https://github.com/tjf801/old-yikyak-api)
  - [My Data Structures & Algorithms class](https://github.com/tjf801/CSE2050)
  - Particle Collision Simulator (not on github yet)
@@ -21,10 +21,10 @@ Past Projects:
  - [Small Minecraft Plugins](https://github.com/tjf801/KeepInventoryPlugin)
  - [C++ style printing in python](https://github.com/tjf801/Better-printing-in-python)
 
-I am Looking For:
+#### I am Looking For:
  - A paid internship, to get real-world experience
 
-Languages:
+#### Languages:
  - C (intermediate)
    - Just because I *can* write C, doesn't mean I like to any more than I have to.
    - (I only really use C for projects on embedded systems, or modifying other people's existing C code.)
