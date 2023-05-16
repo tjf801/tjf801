@@ -9,7 +9,7 @@
 
 Current Projects:
  - [Stockfish, but r/anarchychess](https://github.com/tjf801/AnarchoPleco)
- - A GPU-based simulation of Maxwell's equation using the framework of [Geometric Algebra](https://en.wikipedia.org/wiki/Mathematical_descriptions_of_the_electromagnetic_field#Geometric_algebra_formulations)
+ - A GPU-based simulation of Maxwell's equation using the framework of [Geometric Algebra](https://en.wikipedia.org/wiki/Spacetime_algebra#Classical_electromagnetism)
 
 Past Projects:
  - [Yik Yak API](https://github.com/tjf801/old-yikyak-api)
