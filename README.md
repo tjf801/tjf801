@@ -1,5 +1,9 @@
 <h1 align="center">My ✨Github Profile✨</h1>
-<!-- <h3 align="center">Entry-level developer</h3> <h3 align="center">TODO: title and subtitle</h3> -->
+<!--
+<h3 align="center">Entry-level developer</h3>
+<h3 align="center">TODO: title and subtitle</h3> 
+<img alt="Contrib Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tjf801">
+-->
 
 <p align="center">
  <img alt="My Pronouns" src="https://img.shields.io/badge/pronouns-he%2Fshe%2Fthey-blueviolet?style=flat">
@@ -22,6 +26,8 @@
   <img alt="My Reddit" src="https://img.shields.io/reddit/user-karma/combined/tjf314?color=ff4500&label=Reddit%20u%2Ftjf314&style=flat"
  </a> -->
 </p>
+
+<p align="center"> <img alt="Github Stats" height=200 src="https://github-readme-stats.vercel.app/api?username=tjf801&show_icons=true&locale=en&layout=compact&hide_rank=true"> <img alt="Most used languages" height=200 src="https://github-readme-stats-gamma-smoky.vercel.app/api/top-langs?username=tjf801&show_icons=true&locale=en&layout=compact&size_weight=0.05&count_weight=0.95&langs_count=6"> </p>
 
 <h3>Current Projects:</h3>
 
@@ -47,15 +53,20 @@
 
 <h3>Languages:</h3>
 
+<details>
+ <summary><h4>Click for more info</h4></summary>
+
  - C (intermediate)
    - I only really use C for projects on embedded systems, or modifying other people's existing C code.
-   - Just because I *can* write C, doesn't mean I do any more than I have to.
+   - Just because I write C, doesn't mean I ever publish it
  - Java (intermediate)
    - I have never consentually used Java. Yet somehow I still have years of experience using it.
  - Python (expert)
    - If you locked me on a deserted island with nothing but a laptop, I could write a (mostly functional) clone of the [CPython](https://github.com/python/cpython) interpreter.
  - Rust (intermediate)
    - I can use the language pretty well, and make projects with it quickly.
+
+</details>
 
 <!--
 **tjf801/tjf801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
