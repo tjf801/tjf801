@@ -29,8 +29,7 @@
 
 <p align="center"> <img alt="Github Stats" height=200 src="https://github-readme-stats.vercel.app/api?username=tjf801&show_icons=true&locale=en&layout=compact&hide_rank=true"> <img alt="Most used languages" height=200 src="https://github-readme-stats-gamma-smoky.vercel.app/api/top-langs?username=tjf801&show_icons=true&locale=en&layout=compact&size_weight=0.1&count_weight=0.9&langs_count=6&exclude_repo=snake"> </p>
 
-<h3>Current Projects:</h3>
-
+### Current Projects:
  - [Stockfish, but r/anarchychess](https://github.com/tjf801/AnarchoPleco)
  - A GPU-based simulation of Maxwell's equation using [Geometric Algebra](https://en.wikipedia.org/wiki/Spacetime_algebra#Classical_electromagnetism)
  - Actually making a functional personal website
@@ -47,15 +46,10 @@
 
 </details>
 
-<h3>I am Looking For:</h3>
-
+### I am Looking For:
  - A paid internship to get real-world experience
 
-<h3>Languages:</h3>
-
-<details>
- <summary><h4>Click for more info</h4></summary>
-
+### Languages:
  - C (intermediate)
    - I only really use C for projects on embedded systems, or modifying other people's existing C code.
    - Just because I write C, doesn't mean I ever publish it
@@ -65,8 +59,6 @@
    - If you locked me on a deserted island with nothing but a laptop, I could write a (mostly functional) clone of the [CPython](https://github.com/python/cpython) interpreter.
  - Rust (intermediate)
    - I can use the language pretty well, and make projects with it quickly.
-
-</details>
 
 <!--
 **tjf801/tjf801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
