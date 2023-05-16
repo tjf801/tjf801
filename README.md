@@ -27,7 +27,7 @@
  </a> -->
 </p>
 
-<p align="center"> <img alt="Github Stats" height=200 src="https://github-readme-stats.vercel.app/api?username=tjf801&show_icons=true&locale=en&layout=compact&hide_rank=true"> <img alt="Most used languages" height=200 src="https://github-readme-stats-gamma-smoky.vercel.app/api/top-langs?username=tjf801&show_icons=true&locale=en&layout=compact&size_weight=0.05&count_weight=0.95&langs_count=6"> </p>
+<p align="center"> <img alt="Github Stats" height=200 src="https://github-readme-stats.vercel.app/api?username=tjf801&show_icons=true&locale=en&layout=compact&hide_rank=true"> <img alt="Most used languages" height=200 src="https://github-readme-stats-gamma-smoky.vercel.app/api/top-langs?username=tjf801&show_icons=true&locale=en&layout=compact&size_weight=0.1&count_weight=0.9&langs_count=6&exclude_repo=snake"> </p>
 
 <h3>Current Projects:</h3>
 
