@@ -1,8 +1,8 @@
 <h1 align="center">My ✨Github Profile✨</h1>
 <!--
 <h3 align="center">Entry-level developer</h3>
-<h3 align="center">TODO: title and subtitle</h3> 
-<img alt="Contrib Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tjf801">
+<h3 align="center">TODO: title and subtitle</h3>
+<img alt="Contrib Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tjf801"> 
 -->
 
 <p align="center">
@@ -34,17 +34,13 @@
  - A GPU-based simulation of Maxwell's equation using [Geometric Algebra](https://en.wikipedia.org/wiki/Spacetime_algebra#Classical_electromagnetism)
  - Actually making a functional personal website
 
-<details>
- <summary><h3>Past Projects:</h3></summary>
-
+### Past Projects:
  - [Yik Yak API](https://github.com/tjf801/old-yikyak-api)
  - [My Data Structures & Algorithms class](https://github.com/tjf801/CSE2050)
  - Particle Collision Simulator (not on github yet)
  - [Wordle Solver](https://github.com/tjf801/rust-wordle-solver)
  - [Small Minecraft Plugins](https://github.com/tjf801/KeepInventoryPlugin)
  - [C++ style printing in python](https://github.com/tjf801/Better-printing-in-python)
-
-</details>
 
 ### I am Looking For:
  - A paid internship to get real-world experience
