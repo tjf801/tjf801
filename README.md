@@ -32,7 +32,7 @@
 ### Current Projects:
  - [Stockfish, but r/anarchychess](https://github.com/tjf801/AnarchoPleco)
  - A GPU-based simulation of Maxwell's equation using [Geometric Algebra](https://en.wikipedia.org/wiki/Spacetime_algebra#Classical_electromagnetism)
- - Actually making a functional personal website
+ - Actually making a functional personal website (i am not a web developer.)
 
 ### Past Projects:
  - [Yik Yak API](https://github.com/tjf801/old-yikyak-api)
