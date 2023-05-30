@@ -29,12 +29,12 @@
 
 <p align="center"> <img alt="Github Stats" height=200 src="https://github-readme-stats.vercel.app/api?username=tjf801&show_icons=true&locale=en&layout=compact&hide_rank=true"> <img alt="Most used languages" height=200 src="https://github-readme-stats-gamma-smoky.vercel.app/api/top-langs?username=tjf801&show_icons=true&locale=en&layout=compact&size_weight=0.1&count_weight=0.9&langs_count=6&exclude_repo=snake"> </p>
 
-### Current Projects:
- - [Stockfish, but r/anarchychess](https://github.com/tjf801/AnarchoPleco)
- - A GPU-based simulation of Maxwell's equation using [Geometric Algebra](https://en.wikipedia.org/wiki/Spacetime_algebra#Classical_electromagnetism)
- - Actually making a functional personal website[^1]
+### Current Projects (ordered):
  - Arduino-based firmware for a friend's modified nerf gun (in rust ofc)
+ - Actually making a functional personal website[^1]
+ - A GPU-based simulation of Maxwell's equation using [Geometric Algebra](https://en.wikipedia.org/wiki/Spacetime_algebra#Classical_electromagnetism)
  - A fast (and statically typed) math library for python[^2]
+ - [Stockfish, but r/anarchychess](https://github.com/tjf801/AnarchoPleco)
 
 [^1]: [I am not a web developer.](https://tjf801.github.io/about)
 [^2]: Inspired by my abject hatred for numpy.
