@@ -32,18 +32,23 @@
 ### Current Projects:
  - [Stockfish, but r/anarchychess](https://github.com/tjf801/AnarchoPleco)
  - A GPU-based simulation of Maxwell's equation using [Geometric Algebra](https://en.wikipedia.org/wiki/Spacetime_algebra#Classical_electromagnetism)
- - Actually making a functional personal website (i am not a web developer.)
+ - Actually making a functional personal website[^1]
+ - Arduino-based firmware for a friend's modified nerf gun (in rust ofc)
+ - A fast (and statically typed) math library for python[^2]
+
+[^1]: [I am not a web developer.](https://tjf801.github.io/about)
+[^2]: Inspired by my abject hatred for numpy.
 
 ### Past Projects:
  - [Yik Yak API](https://github.com/tjf801/old-yikyak-api)
- - [My Data Structures & Algorithms class](https://github.com/tjf801/CSE2050)[^1]
- - [Particle Collision Simulator](https://tjf801.github.io/projects/physics)[^2]
+ - [My Data Structures & Algorithms class](https://github.com/tjf801/CSE2050)[^3]
+ - [Particle Collision Simulator](https://tjf801.github.io/projects/physics)[^4]
  - [Wordle Solver](https://github.com/tjf801/rust-wordle-solver)
  - [Small Minecraft Plugins](https://github.com/tjf801/KeepInventoryPlugin)
  - [C++ style printing in python](https://github.com/tjf801/Better-printing-in-python)
 
-[^1]: If you're someone who goes to UCONN, you don't see this repo. It doesn't exist.
-[^2]: This was originally a binary application. It's very slow in the wasm version.
+[^3]: If you're someone who goes to UCONN, you don't see this repo. It doesn't exist.
+[^4]: This was originally a binary application. It's very slow in the wasm version.
 
 ### I am Looking For:
  - A paid internship to get real-world experience
