@@ -29,40 +29,40 @@
 
 <p align="center"> <img alt="Github Stats" height=200 src="https://github-readme-stats.vercel.app/api?username=tjf801&show_icons=true&locale=en&layout=compact&hide_rank=true"> <img alt="Most used languages" height=200 src="https://github-readme-stats-gamma-smoky.vercel.app/api/top-langs?username=tjf801&show_icons=true&locale=en&layout=compact&size_weight=0.1&count_weight=0.9&langs_count=6&exclude_repo=snake"> </p>
 
-### Current Projects (ordered):
+### Current Projects (ordered)[^1]:
  - [Arduino firmware for a friend's modified nerf blaster (in rust ofc)](https://github.com/tjf801/nerf-firmware)
- - Actually making a functional personal website[^1]
+ - Actually making a functional personal website[^2]
  - A GPU-based simulation of Maxwell's equation using [Geometric Algebra](https://en.wikipedia.org/wiki/Spacetime_algebra#Classical_electromagnetism)
- - A fast (and statically typed) math library for python[^2]
+ - A fast (and statically typed) math library for python[^3]
  - [Stockfish, but r/anarchychess](https://github.com/tjf801/AnarchoPleco)
 
-[^1]: [I am not a web developer.](https://tjf801.github.io/about)
-[^2]: Inspired by my abject hatred for numpy.
+[^1]: I usually work on these instead of listening to my CS lectures, so I probably will have less progress on average on these over the course of this summer.
+[^2]: [I am not a web developer.](https://tjf801.github.io/about)
+[^3]: Just because I can't find any with as... robust type hints as I would like.
 
 ### Past Projects:
  - [Yik Yak API](https://github.com/tjf801/old-yikyak-api)
- - [My Data Structures & Algorithms class](https://github.com/tjf801/CSE2050)[^3]
- - [Particle Collision Simulator](https://tjf801.github.io/projects/physics)[^4]
+ - [My Data Structures & Algorithms class](https://github.com/tjf801/CSE2050)[^4]
+ - [Particle Collision Simulator](https://tjf801.github.io/projects/physics)[^5]
  - [Wordle Solver](https://github.com/tjf801/rust-wordle-solver)
  - [Small Minecraft Plugins](https://github.com/tjf801/KeepInventoryPlugin)
  - [C++ style printing in python](https://github.com/tjf801/Better-printing-in-python)
 
-[^3]: If you're someone who goes to UCONN, you don't see this repo. It doesn't exist.
-[^4]: This was originally a binary application. It's very slow in the wasm version.
+[^4]: If you're someone who goes to or works at UCONN, you don't see this repo. It doesn't exist. (BTW, your professor will know if you plagarize my code. It's very... unique.)
+[^5]: This was originally a binary application that used [SFML](https://github.com/SFML/SFML), and the wasm version is WAY slower. I'll (probably) publish it at some point
 
 ### I am Looking For:
  - A paid internship to get real-world experience
 
-### Languages:
+### Programming Languages:
  - C (intermediate)
-   - I only really use C for projects on embedded systems, or modifying other people's existing C code.
-   - Just because I write C, doesn't mean I ever publish it
+   - I only really use C for small projects on embedded systems, or reading other people's C code.
  - Java (intermediate)
-   - I have never consentually used Java. Yet somehow I still have years of experience using it.
+   - I have never consentually used Java, yet somehow I still have had to use it for YEARS.
  - Python (expert)
-   - If you locked me on a deserted island with nothing but a laptop, I could write a (mostly functional) clone of the [CPython](https://github.com/python/cpython) interpreter.
+   - If you stranded me on a deserted island with nothing but a laptop, I could write a (mostly functional) clone of the [CPython](https://github.com/python/cpython) interpreter.
  - Rust (intermediate)
-   - I can use the language pretty well, and make projects with it quickly.
+   - I can use the language decently enough, but I certainly wouldn't call myself an expert by any means
 
 <!--
 **tjf801/tjf801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
