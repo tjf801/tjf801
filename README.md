@@ -36,9 +36,9 @@
  - A fast (and statically typed) math library for python[^3]
  - [Stockfish, but r/anarchychess](https://github.com/tjf801/AnarchoPleco)
 
-[^1]: I usually work on these instead of listening to my CS lectures, so I probably will have less progress on average on these over the course of this summer.
+[^1]: I usually work on these instead of listening to my CS lectures, so I'll probably have less progress on average during summer break
 [^2]: [I am not a web developer.](https://tjf801.github.io/about)
-[^3]: Just because I can't find any with as... robust type hints as I would like.
+[^3]: Just because I can't find any with as robust type hints as I would like.
 
 ### Past Projects:
  - [Yik Yak API](https://github.com/tjf801/old-yikyak-api)
@@ -49,7 +49,7 @@
  - [C++ style printing in python](https://github.com/tjf801/Better-printing-in-python)
 
 [^4]: If you're someone who goes to or works at UCONN, you don't see this repo. It doesn't exist. (BTW, your professor will know if you plagarize my code. It's very... unique.)
-[^5]: This was originally a binary application that used [SFML](https://github.com/SFML/SFML), and the wasm version is WAY slower. I'll (probably) publish it at some point
+[^5]: This was originally a binary application that used [SFML](https://github.com/SFML/SFML), and so the wasm version is WAY slower. I'll (probably) publish the original at some point
 
 ### I am Looking For:
  - A paid internship to get real-world experience
