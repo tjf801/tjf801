@@ -33,7 +33,7 @@
  - [Arduino firmware for a friend's modified nerf blaster (in rust ofc)](https://github.com/tjf801/nerf-firmware)
  - Actually making a functional personal website[^2]
  - A GPU-based simulation of Maxwell's equation using [Geometric Algebra](https://en.wikipedia.org/wiki/Spacetime_algebra#Classical_electromagnetism)
- - A fast (and statically typed) math library for python[^3]
+ - [A fast (and statically typed) math library for python](https://github.com/tjf801/math_tools)[^3]
  - [Stockfish, but r/anarchychess](https://github.com/tjf801/AnarchoPleco)
 
 [^1]: I usually work on these instead of listening to my CS lectures, so I'll probably have less progress on average during summer break
