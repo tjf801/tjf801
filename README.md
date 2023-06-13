@@ -10,9 +10,9 @@
  <a href="https://github.com/tjf801?tab=repositories">
   <img alt="My Repos" src="https://img.shields.io/badge/Github-repos-blue?logo=github&style=flat">
  </a>
- <a href="https://www.linkedin.com/in/tyler-j-fusco/">
+<!--  <a href="https://www.linkedin.com/in/tyler-j-fusco/">
   <img alt="My Linkedin" src="https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=tyler-j-fusco&color=0A66C2">
- </a>
+ </a> -->
  <a href="https://en.wikipedia.org/wiki/User:Tjf801">
   <img alt="My Wikipedia" src="https://img.shields.io/static/v1?logo=wikipedia&label=Wikipedia&message=Tjf801&color=FBFBFB">
  </a>
