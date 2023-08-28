@@ -30,26 +30,24 @@
 <p align="center"> <img alt="Github Stats" height=200 src="https://github-readme-stats.vercel.app/api?username=tjf801&show_icons=true&locale=en&layout=compact&hide_rank=true"> <img alt="Most used languages" height=200 src="https://github-readme-stats-gamma-smoky.vercel.app/api/top-langs?username=tjf801&show_icons=true&locale=en&layout=compact&size_weight=0.1&count_weight=0.9&langs_count=6&exclude_repo=snake"> </p>
 
 ### Current Projects (ordered)[^1]:
- - [Arduino firmware for a friend's modified nerf blaster (in rust ofc)](https://github.com/tjf801/nerf-firmware)
- - Actually making a functional personal website[^2]
+ - [My Systems Programming class](https://github.com/tjf801/CSE-3100)[^2]
+ - Actually making a functional personal website[^3]
  - A GPU-based simulation of Maxwell's equation using [Geometric Algebra](https://en.wikipedia.org/wiki/Spacetime_algebra#Classical_electromagnetism)
- - [A fast (and statically typed) math library for python](https://github.com/tjf801/math_tools)[^3]
  - [Stockfish, but r/anarchychess](https://github.com/tjf801/AnarchoPleco)
 
 [^1]: I usually work on these instead of listening to my CS lectures, so I'll probably have less progress on average during summer break
-[^2]: [I am not a web developer.](https://tjf801.github.io/about)
-[^3]: Just because I can't find any with as robust type hints as I would like.
+[^2]: If you're someone who goes to or works at UCONN, you don't see this repo. It doesn't exist. (BTW, your professor will know if you plagarize my code. It's very... unique.)
+[^3]: [I am not a web developer.](https://tjf801.github.io/about)
 
 ### Past Projects:
  - [Yik Yak API](https://github.com/tjf801/old-yikyak-api)
- - [My Data Structures & Algorithms class](https://github.com/tjf801/CSE2050)[^4]
- - [Particle Collision Simulator](https://tjf801.github.io/projects/physics)[^5]
+ - [My Data Structures & Algorithms class](https://github.com/tjf801/CSE2050)[^2]
+ - [Particle Collision Simulator](https://tjf801.github.io/projects/physics)[^4]
  - [Wordle Solver](https://github.com/tjf801/rust-wordle-solver)
  - [Small Minecraft Plugins](https://github.com/tjf801/KeepInventoryPlugin)
  - [C++ style printing in python](https://github.com/tjf801/Better-printing-in-python)
 
-[^4]: If you're someone who goes to or works at UCONN, you don't see this repo. It doesn't exist. (BTW, your professor will know if you plagarize my code. It's very... unique.)
-[^5]: This was originally a binary application that used [SFML](https://github.com/SFML/SFML), and so the wasm version is WAY slower. I'll (probably) publish the original at some point
+[^4]: This was originally a binary application that used [SFML](https://github.com/SFML/SFML), and so the wasm version is WAY slower. I'll (probably) publish the original at some point
 
 ### I am Looking For:
  - A paid internship to get real-world experience
