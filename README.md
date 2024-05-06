@@ -30,26 +30,26 @@
 <p align="center"> <img alt="Github Stats" height=200 src="https://github-readme-stats.vercel.app/api?username=tjf801&show_icons=true&locale=en&layout=compact&hide_rank=true"> <img alt="Most used languages" height=200 src="https://github-readme-stats-gamma-smoky.vercel.app/api/top-langs?username=tjf801&show_icons=true&locale=en&layout=compact&size_weight=0.1&count_weight=0.9&langs_count=6&exclude_repo=snake"> </p>
 
 ### Currently Working On (ordered)[^1]:
- - [A little bit of trolling](https://github.com/tjf801/mike-troll)
- - [An assembly optimizer](https://github.com/tjf801/hrm-optimizer) for the game [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)
- - Actually making a functional personal website[^2]
- - A simulation of Maxwell's equation using [Geometric Algebra](https://en.wikipedia.org/wiki/Spacetime_algebra#Classical_electromagnetism)
+ - [Contributing](https://github.com/leanprover/std4/pulls?q=is%3Apr+author%3Atjf801) to [Lean4's standard library](https://github.com/leanprover/std4)[^2]
+ - An [optimizer](https://github.com/tjf801/hrm-optimizer) for the game [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)
+ - Actually making a functional personal website[^3]
  - [Stockfish, but r/anarchychess](https://github.com/tjf801/AnarchoPleco)
 
 [^1]: I usually work on these instead of listening to my CS lectures, so I'll probably have less progress on average during summer break
-[^2]: [I am not a web developer.](https://tjf801.github.io/about)
+[^2]: This is what I've been doing to avoid falling asleep in my Discrete Systems class.
+[^3]: [I am not a web developer.](https://tjf801.github.io/about)
 
 ### Past (completed) Projects:
- - [My Systems Programming class](https://github.com/tjf801/CSE-3100)[^3]
+ - [My Systems Programming class](https://github.com/tjf801/CSE-3100)[^4]
  - [Yik Yak API](https://github.com/tjf801/old-yikyak-api)
  - [My Data Structures & Algorithms class](https://github.com/tjf801/CSE2050)
- - [Particle Collision Simulator](https://tjf801.github.io/projects/physics)[^4]
+ - [Particle Collision Simulator](https://tjf801.github.io/projects/physics)[^5]
  - [Wordle Solver](https://github.com/tjf801/rust-wordle-solver)
  - [Small Minecraft Plugins](https://github.com/tjf801/KeepInventoryPlugin)
  - [C++ style printing in python](https://github.com/tjf801/Better-printing-in-python)
 
-[^3]: ~~If you're someone who goes to or works at UCONN, you don't see this repo. It doesn't exist. (BTW, your professor will know if you plagarize my code. It's very... unique.)~~ If you are the random mf who scoured the depths of the internet for my code, *copy+pasted it*, and then turned it in to give me a zero, i hate you. :heart:
-[^4]: This was originally a binary application that used [SFML](https://github.com/SFML/SFML), and so the wasm version is WAY slower. I'll (probably) publish the original at some point
+[^4]: ~~If you're someone who goes to or works at UCONN, you don't see this repo. It doesn't exist. (BTW, your professor will know if you plagarize my code. It's very... unique.)~~ If you are the random mf who scoured the depths of the internet for my code, *copy+pasted it*, and then turned it in to give me a zero, i hate you. :heart:
+[^5]: This was originally a binary application that used [SFML](https://github.com/SFML/SFML), and so the wasm version is WAY slower. I'll (probably) publish the original at some point
 
 ### I am Looking For:
  - A paid internship to get real-world experience
