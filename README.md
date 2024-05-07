@@ -30,7 +30,7 @@
 <p align="center"> <img alt="Github Stats" height=200 src="https://github-readme-stats.vercel.app/api?username=tjf801&show_icons=true&locale=en&layout=compact&hide_rank=true"> <img alt="Most used languages" height=200 src="https://github-readme-stats-gamma-smoky.vercel.app/api/top-langs?username=tjf801&show_icons=true&locale=en&layout=compact&size_weight=0.1&count_weight=0.9&langs_count=6&exclude_repo=snake"> </p>
 
 ### Currently Working On (ordered)[^1]:
- - [Contributing](https://github.com/leanprover/std4/pulls?q=is%3Apr+author%3Atjf801) to [Lean4's standard library](https://github.com/leanprover/std4)[^2]
+ - [Contributing](https://github.com/leanprover/std4/pulls?q=is%3Apr+author%3Atjf801) to [Lean4's boost library](https://github.com/leanprover-community/batteries)[^2]
  - An [optimizer](https://github.com/tjf801/hrm-optimizer) for the game [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)
  - Actually making a functional personal website[^3]
  - [Stockfish, but r/anarchychess](https://github.com/tjf801/AnarchoPleco)
