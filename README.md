@@ -40,16 +40,14 @@
 [^3]: [I am not a web developer.](https://tjf801.github.io/about)
 
 ### Past (completed) Projects:
- - [My Systems Programming class](https://github.com/tjf801/CSE-3100)[^4]
  - [Yik Yak API](https://github.com/tjf801/old-yikyak-api)
  - [My Data Structures & Algorithms class](https://github.com/tjf801/CSE2050)
- - [Particle Collision Simulator](https://tjf801.github.io/projects/physics)[^5]
+ - [Particle Collision Simulator](https://tjf801.github.io/projects/physics)[^4]
  - [Wordle Solver](https://github.com/tjf801/rust-wordle-solver)
  - [Small Minecraft Plugins](https://github.com/tjf801/KeepInventoryPlugin)
  - [C++ style printing in python](https://github.com/tjf801/Better-printing-in-python)
 
-[^4]: ~~If you're someone who goes to or works at UCONN, you don't see this repo. It doesn't exist. (BTW, your professor will know if you plagarize my code. It's very... unique.)~~ If you are the random mf who scoured the depths of the internet for my code, *copy+pasted it*, and then turned it in to give me a zero, i hate you. :heart:
-[^5]: This was originally a binary application that used [SFML](https://github.com/SFML/SFML), and so the wasm version is WAY slower. I'll (probably) publish the original at some point
+[^4]: This was originally a binary application that used [SFML](https://github.com/SFML/SFML), and so the wasm version is WAY slower. I'll (probably) publish the original at some point
 
 ### I am Looking For:
  - A paid internship to get real-world experience
