@@ -27,27 +27,34 @@
  </a> -->
 </p>
 
-<p align="center"> <img alt="Github Stats" height=200 src="https://github-readme-stats.vercel.app/api?username=tjf801&show_icons=true&locale=en&layout=compact&hide_rank=true"> <img alt="Most used languages" height=200 src="https://github-readme-stats-gamma-smoky.vercel.app/api/top-langs?username=tjf801&show_icons=true&locale=en&layout=compact&size_weight=0.1&count_weight=0.9&langs_count=6&exclude_repo=snake"> </p>
+<p align="center">
+  <img alt="Github Stats" height=200 src="https://github-readme-stats.vercel.app/api?username=tjf801&show_icons=true&locale=en&layout=compact&hide_rank=true">
+  <!-- <img alt="Most used languages" height=200 src="https://github-readme-stats-gamma-smoky.vercel.app/api/top-langs?username=tjf801&show_icons=true&locale=en&layout=compact&size_weight=0.1&count_weight=0.9&langs_count=6&exclude_repo=snake"> -->
+</p>
 
 ### Currently Working On (ordered)[^1]:
- - [Contributing](https://github.com/leanprover/std4/pulls?q=is%3Apr+author%3Atjf801) to [Lean4's boost library](https://github.com/leanprover-community/batteries)[^2]
+ - A [Conservative Garbage Collection](https://en.wikipedia.org/wiki/Tracing_garbage_collection) library for [Rust](https://github.com/rust-lang/rust)[^2]
+ - [Misc. concurrent data structures and algorithms](https://github.com/tjf801/lockfree/)
+<!-- - [Contributing](https://github.com/leanprover/std4/pulls?q=is%3Apr+author%3Atjf801) to [Lean4's boost library](https://github.com/leanprover-community/batteries)[^2] -->
  - An [optimizer](https://github.com/tjf801/hrm-optimizer) for the game [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)
  - Actually making a functional personal website[^3]
- - [Stockfish, but r/anarchychess](https://github.com/tjf801/AnarchoPleco)
+<!-- - [Stockfish, but r/anarchychess](https://github.com/tjf801/AnarchoPleco) -->
 
-[^1]: I usually work on these instead of listening to my CS lectures, so I'll probably have less progress on average during summer break
-[^2]: This is what I've been doing to avoid falling asleep in my Discrete Systems class.
+[^1]: Should I have a section for my old/abandoned/incomplete projects?
+[^2]: https://github.com/tjf801/lockfree/tree/master/src/gc
 [^3]: [I am not a web developer.](https://tjf801.github.io/about)
 
 ### Past (completed) Projects:
+ - [A *Very* Basic Lambda Calculus Interpreter](https://github.com/tjf801/untyped-lambda-calculus/)[^4]
  - [Yik Yak API](https://github.com/tjf801/old-yikyak-api)
  - [My Data Structures & Algorithms class](https://github.com/tjf801/CSE2050)
- - [Particle Collision Simulator](https://tjf801.github.io/projects/physics)[^4]
+ - [Particle Collision Simulator](https://tjf801.github.io/projects/physics)[^5]
  - [Wordle Solver](https://github.com/tjf801/rust-wordle-solver)
  - [Small Minecraft Plugins](https://github.com/tjf801/KeepInventoryPlugin)
  - [C++ style printing in python](https://github.com/tjf801/Better-printing-in-python)
 
-[^4]: This was originally a binary application that used [SFML](https://github.com/SFML/SFML), and so the wasm version is WAY slower. I'll (probably) publish the original at some point
+[^4]: This was made in like, a day, so its not really the most featured or impressive or anything, it's mostly just here for completeness
+[^5]: This was originally a binary application that used [SFML](https://github.com/SFML/SFML), and so the wasm version is WAY slower. I'll (probably) publish the original at some point
 
 ### I am Looking For:
  - A paid internship to get real-world experience
