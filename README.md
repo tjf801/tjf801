@@ -37,24 +37,22 @@
  - [Misc. concurrent data structures and algorithms](https://github.com/tjf801/lockfree/)
 <!-- - [Contributing](https://github.com/leanprover/std4/pulls?q=is%3Apr+author%3Atjf801) to [Lean4's boost library](https://github.com/leanprover-community/batteries)[^2] -->
  - An [optimizer](https://github.com/tjf801/hrm-optimizer) for the game [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)
- - Actually making a functional personal website[^3]
 <!-- - [Stockfish, but r/anarchychess](https://github.com/tjf801/AnarchoPleco) -->
 
 [^1]: Should I have a section for my old/abandoned/incomplete projects?
 [^2]: https://github.com/tjf801/lockfree/tree/master/src/gc
-[^3]: [I am not a web developer.](https://tjf801.github.io/about)
 
 ### Past (completed) Projects:
- - [A *Very* Basic Lambda Calculus Interpreter](https://github.com/tjf801/untyped-lambda-calculus/)[^4]
+ - [A *Very* Basic Lambda Calculus Interpreter](https://github.com/tjf801/untyped-lambda-calculus/)[^3]
  - [Yik Yak API](https://github.com/tjf801/old-yikyak-api)
  - [My Data Structures & Algorithms class](https://github.com/tjf801/CSE2050)
- - [Particle Collision Simulator](https://tjf801.github.io/projects/physics)[^5]
+ - [Particle Collision Simulator](https://tjf801.github.io/projects/physics)[^4]
  - [Wordle Solver](https://github.com/tjf801/rust-wordle-solver)
  - [Small Minecraft Plugins](https://github.com/tjf801/KeepInventoryPlugin)
  - [C++ style printing in python](https://github.com/tjf801/Better-printing-in-python)
 
-[^4]: This was made in like, a day, so its not really the most featured or impressive or anything, it's mostly just here for completeness
-[^5]: This was originally a binary application that used [SFML](https://github.com/SFML/SFML), and so the wasm version is WAY slower. I'll (probably) publish the original at some point
+[^3]: This was made in like, a day, so its not really the most featured or impressive or anything, it's mostly just here for completeness
+[^4]: This was originally a binary application that used [SFML](https://github.com/SFML/SFML), and so the wasm version is WAY slower. I'll (probably) publish the original at some point
 
 ### I am Looking For:
  - A paid internship to get real-world experience
