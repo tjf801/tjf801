@@ -6,7 +6,7 @@
 -->
 
 <p align="center">
- <img alt="My Pronouns" src="https://img.shields.io/badge/pronouns-he%2Fshe%2Fthey-blueviolet?style=flat">
+ <!-- <img alt="My Pronouns" src="https://img.shields.io/badge/pronouns-he%2Fshe%2Fthey-blueviolet?style=flat"> -->
  <a href="https://github.com/tjf801?tab=repositories">
   <img alt="My Repos" src="https://img.shields.io/badge/Github-repos-blue?logo=github&style=flat">
  </a>
